@@ -14,11 +14,10 @@
 
 ## 🌟 About Me
 
-- 🎓 **Final Year BE Student** — AI & Data Science at PVG COET, Pune
+- 🎓 **Final Year BE Student** — Artifcal Intelligence & Data Science at PVG COET, Pune
 - 🏗️ **Final Year Project** — [PulmoCare](https://github.com/bhargavbahirat/Pulmocare) — Multimodal AI Diagnostic System for COPD & Pneumonia Detection
 - 🌱 **Exploring** — Hadoop Ecosystem, PySpark, MongoDB, Azure Data Platform, Linux CLI
 - 🎯 **Interests** — Data Engineering, Big Data, Machine Learning, Cloud Computing, ETL Pipelines
-- 📍 **Location** — Pune, India
 - 📫 **Connect** — [LinkedIn](https://www.linkedin.com/in/bhargavbahirat/)
 
 ---

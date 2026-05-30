@@ -61,7 +61,7 @@
 
 ## 🚀 Projects
 
-### 🫁 [PulmoCare — Multimodal AI Diagnostic System](https://github.com/bhargavbahirat/Pulmocare)
+### 🩺 [PulmoCare — Multimodal AI Diagnostic System](https://github.com/bhargavbahirat/Pulmocare)
 
 **Tech Stack:** *Python · TensorFlow · Scikit-learn · Librosa · OpenCV · Flask · MongoDB · Next.js*
 
